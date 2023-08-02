@@ -20,3 +20,4 @@
 .vscode/
 
 # Flutter/Dart/Pub related
+**/doc/api/

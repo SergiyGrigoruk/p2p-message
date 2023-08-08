@@ -26,3 +26,4 @@
 .packages
 .pub-cache/
 .pub/
+build/

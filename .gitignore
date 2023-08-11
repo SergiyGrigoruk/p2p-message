@@ -27,3 +27,5 @@
 .pub-cache/
 .pub/
 build/
+
+# Android related

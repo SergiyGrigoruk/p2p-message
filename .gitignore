@@ -42,3 +42,4 @@ build/
 **/ios/**/*.mode2v3
 **/ios/**/*.moved-aside
 **/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3

@@ -43,3 +43,4 @@ build/
 **/ios/**/*.moved-aside
 **/ios/**/*.pbxuser
 **/ios/**/*.perspectivev3
+**/ios/**/*sync/

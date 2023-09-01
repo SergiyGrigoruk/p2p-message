@@ -44,3 +44,4 @@ build/
 **/ios/**/*.pbxuser
 **/ios/**/*.perspectivev3
 **/ios/**/*sync/
+**/ios/**/.sconsign.dblite

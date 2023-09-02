@@ -45,3 +45,4 @@ build/
 **/ios/**/*.perspectivev3
 **/ios/**/*sync/
 **/ios/**/.sconsign.dblite
+**/ios/**/.tags*

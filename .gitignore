@@ -46,3 +46,4 @@ build/
 **/ios/**/*sync/
 **/ios/**/.sconsign.dblite
 **/ios/**/.tags*
+**/ios/**/.vagrant/

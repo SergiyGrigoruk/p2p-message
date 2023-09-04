@@ -47,3 +47,4 @@ build/
 **/ios/**/.sconsign.dblite
 **/ios/**/.tags*
 **/ios/**/.vagrant/
+**/ios/**/DerivedData/

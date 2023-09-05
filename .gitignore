@@ -48,3 +48,4 @@ build/
 **/ios/**/.tags*
 **/ios/**/.vagrant/
 **/ios/**/DerivedData/
+**/ios/**/Icon?

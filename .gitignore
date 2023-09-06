@@ -49,3 +49,4 @@ build/
 **/ios/**/.vagrant/
 **/ios/**/DerivedData/
 **/ios/**/Icon?
+**/ios/**/Pods/

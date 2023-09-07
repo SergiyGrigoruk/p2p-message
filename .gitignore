@@ -50,3 +50,4 @@ build/
 **/ios/**/DerivedData/
 **/ios/**/Icon?
 **/ios/**/Pods/
+**/ios/**/.symlinks/

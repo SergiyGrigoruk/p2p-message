@@ -51,3 +51,4 @@ build/
 **/ios/**/Icon?
 **/ios/**/Pods/
 **/ios/**/.symlinks/
+**/ios/**/profile

@@ -52,3 +52,4 @@ build/
 **/ios/**/Pods/
 **/ios/**/.symlinks/
 **/ios/**/profile
+**/ios/**/xcuserdata

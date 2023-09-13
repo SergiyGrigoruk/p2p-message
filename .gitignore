@@ -53,3 +53,4 @@ build/
 **/ios/**/.symlinks/
 **/ios/**/profile
 **/ios/**/xcuserdata
+**/ios/.generated/

@@ -55,3 +55,4 @@ build/
 **/ios/**/xcuserdata
 **/ios/.generated/
 **/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework

@@ -64,3 +64,4 @@ build/
 **/ios/Runner/GeneratedPluginRegistrant.*
 
 # Exceptions to above rules.
+!**/ios/**/default.mode1v3

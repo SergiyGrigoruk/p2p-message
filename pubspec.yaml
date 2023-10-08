@@ -8,3 +8,5 @@ description: A new Flutter project.
 # build by specifying --build-name and --build-number, respectively.
 # Read more about versioning at semver.org.
 version: 1.0.0+1
+
+environment:

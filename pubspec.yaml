@@ -24,3 +24,4 @@ dependencies:
   sqflite: any
   shared_preferences: ^0.4.3
   lpinyin: any
+  image_picker: any

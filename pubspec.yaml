@@ -27,3 +27,4 @@ dependencies:
   image_picker: any
 
 dev_dependencies:
+  flutter_test:
